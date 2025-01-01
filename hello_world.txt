@@ -1,2 +1,3 @@
 Hello, World!
 This is a line
+This line was added to test commiting with VsCode using the body and subject feature for commits
